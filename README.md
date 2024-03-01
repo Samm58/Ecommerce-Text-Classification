@@ -37,11 +37,12 @@ Metric Graph:
   <img src="resources/epoch_accuracy.png" alt="Metric Graph" title="Metric Graph">
 </p>
 
-Some of Model Deployment:
+Model Deployment 1:
 <p align="center">
   <img src="results/model_deployment1.png" alt="Model Deployment 1" title="Model Deployment 1">
 </p>
 
+Model Deployment 2:
 <p align="center">
   <img src="results/model_deployment2.png" alt="Model Deployment 2" title="Model Deployment 2">
 </p>
