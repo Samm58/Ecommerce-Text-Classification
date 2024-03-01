@@ -29,15 +29,22 @@ Model Score:
 
 Loss Graph:
 <p align="center">
-  <img src="results/loss_output_graph.png" alt="Loss Graph" title="Loss Graph">
+  <img src="resources/epoch_loss.png" alt="Loss Graph" title="Loss Graph">
 </p>
 
 Metric Graph:
 <p align="center">
-  <img src="results/accuracy_output_graph.png" alt="Metric Graph" title="Metric Graph">
+  <img src="resources/epoch_accuracy.png" alt="Metric Graph" title="Metric Graph">
 </p>
 
+Some of Model Deployment:
+<p align="center">
+  <img src="results/model_deployment1" alt="Model Deployment 1" title="Model Deployment 1">
+</p>
 
+<p align="center">
+  <img src="results/model_deployment2" alt="Model Deployment 2" title="Model Deployment 2">
+</p>
 
 ## Workflow
 
