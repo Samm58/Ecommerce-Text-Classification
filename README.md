@@ -39,11 +39,11 @@ Metric Graph:
 
 Some of Model Deployment:
 <p align="center">
-  <img src="results/model_deployment1" alt="Model Deployment 1" title="Model Deployment 1">
+  <img src="results/model_deployment1.png" alt="Model Deployment 1" title="Model Deployment 1">
 </p>
 
 <p align="center">
-  <img src="results/model_deployment2" alt="Model Deployment 2" title="Model Deployment 2">
+  <img src="results/model_deployment2.png" alt="Model Deployment 2" title="Model Deployment 2">
 </p>
 
 ## Workflow
