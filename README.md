@@ -79,3 +79,14 @@ Metric Graph:
 
 ### 10. Results
 > We will be plotting the accuracy and loss graph here, the details are shown in the Result section at the top.
+
+### 11. Saving Important Files
+> Here we will be saving the `label_encoder` and `tokenization` in ".pkl" file and save the model using keras. These files are required for model deployment using Streamlit platform.
+
+### 12. Model Deployment
+> As per picture below is the Streamlit platform generate in `model_deployment.py` file. Some of the results you can refer in the [results](/results) folder.
+
+<p align="center">
+  <img src="resources/streamlit_platform.png" alt="Streamlit Deployment" title="Streamlit Deployment">
+</p>
+
