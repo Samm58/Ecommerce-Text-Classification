@@ -24,17 +24,17 @@ Here are some key characteristics of the dataset:
 
 Model Score:
 <p align="center">
-  <img src="resources/score_output.png" alt="Model Score" title="Model Score">
+  <img src="results/score_output.png" alt="Model Score" title="Model Score">
 </p>
 
 Loss Graph:
 <p align="center">
-  <img src="resources/loss_output_graph.png" alt="Loss Graph" title="Loss Graph">
+  <img src="results/loss_output_graph.png" alt="Loss Graph" title="Loss Graph">
 </p>
 
 Metric Graph:
 <p align="center">
-  <img src="resources/accuracy_output_graph.png" alt="Metric Graph" title="Metric Graph">
+  <img src="results/accuracy_output_graph.png" alt="Metric Graph" title="Metric Graph">
 </p>
 
 
