@@ -21,8 +21,18 @@ Here are some key characteristics of the dataset:
 * Intended Use: Classification
 
 ## Results
+<p align="center">
+  <img src="resources/score_output.png" alt="Model Score" title="Model Score">
+</p>
 
-<img src="/repository/resources/fine_tune_model_eval.png" alt="Fine Tune Model Evaluation" title="Fine Tune Model Evaluation">
+<p align="center">
+  <img src="resources/loss_output_graph.png" alt="Loss Graph" title="Loss Graph">
+</p>
+
+<p align="center">
+  <img src="resources/accuracy_output_graph.png" alt="Metric Graph" title="Metric Graph">
+</p>
+
 
 
 ## Workflow
@@ -51,12 +61,17 @@ Here are some key characteristics of the dataset:
 ### 8. Model Development
 > We will concentrate on the development of the LSTM model across its various layers and also setting all the callbacks to be used for model training later. Model architecture is shown here:
 
-<img src="/repository/resources/PipelineArchitecture.png" alt="Pipeline Architecture" title="Pipeline Architecture">
+<p align="center">
+  <img src="resources/model_architecture.png" alt="Model Architecture" title="Model Architecture">
+</p>
+
 
 ### 9. Model Training
 > As usual, we will train the model by calling the `model.fit()`. The training report is as per below:
 
-<img src="/repository/resources/base_model_training_report.png" alt="Training Report" title="Training Report">
+<p align="center">
+  <img src="resources/training_report.png" alt="Training Report" title="Training Report">
+</p>
 
 ### 10. Results
 > We will be plotting the accuracy and loss graph here, the details are shown in the Result section at the top.
